@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing Animation -->
   <a href="https://github.com/ARZzxz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Achmad+Rizky+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+QA+Automation+%F0%9F%9A%80;Building+Agentic+AI+%26+Smart+Companions+%F0%9F%A7%A0;Cross-Platform+Flutter+%26+Full-Stack+%F0%9F%93%B1;Turning+Code+Into+Reliable+Experiences+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+ARIZ+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+QA+Automation+%F0%9F%9A%80;Building+Agentic+AI+%26+Smart+Companions+%F0%9F%A7%A0;Cross-Platform+Flutter+%26+Full-Stack+%F0%9F%93%B1;Turning+Code+Into+Reliable+Experiences+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/>
